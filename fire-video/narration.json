@@ -1,0 +1,220 @@
+{
+  "voice": "af_heart",
+  "speed": 0.94,
+  "leadIn": 1.2,
+  "tail": 3.2,
+  "defaultPause": 0.38,
+  "rowPause": 0.75,
+  "sentences": [
+    {
+      "row": 1,
+      "text": "Imagine being the first human to see a tree struck by lightning."
+    },
+    {
+      "text": "The sky cracks.",
+      "pause": 0.3
+    },
+    {
+      "text": "The branches glow.",
+      "pause": 0.3
+    },
+    {
+      "text": "Animals run."
+    },
+    {
+      "text": "And in the middle of the chaos is something terrifying—but useful.",
+      "tts": "And in the middle of the chaos is something terrifying... but useful."
+    },
+    {
+      "text": "Something no other animal would ever learn to command quite like us.",
+      "pause": 0.7
+    },
+    {
+      "text": "Fire.",
+      "pause": 1.3
+    },
+    {
+      "row": 2,
+      "text": "But here is the twist: fire was never invented in a single moment."
+    },
+    {
+      "text": "There was probably no prehistoric genius who rubbed two sticks together and shouted, “I’ve got it!”",
+      "tts": "There was probably no prehistoric genius who rubbed two sticks together and shouted, I've got it!"
+    },
+    {
+      "text": "Instead, our relationship with fire may have developed in stages: first finding it, then carrying it, then controlling it—and only much later, making it on demand.",
+      "tts": "Instead, our relationship with fire may have developed in stages: first finding it, then carrying it, then controlling it... and only much later, making it on demand."
+    },
+    {
+      "row": 3,
+      "text": "Long before humans existed, lightning, volcanoes, and wildfires were already setting the planet ablaze."
+    },
+    {
+      "text": "Early human ancestors may have approached the glowing remains after a natural fire, gathering cooked plants, scavenging roasted animals, or collecting a burning branch."
+    },
+    {
+      "row": 4,
+      "text": "That first step did not require making fire.",
+      "pause": 0.3
+    },
+    {
+      "text": "It required overcoming fear.",
+      "pause": 1.0
+    },
+    {
+      "row": 5,
+      "text": "Then came an even harder challenge: keeping it alive."
+    },
+    {
+      "text": "A flame is hungry."
+    },
+    {
+      "text": "It needs dry grass, wood, oxygen, and constant attention."
+    },
+    {
+      "row": 6,
+      "text": "One neglected ember, one rainstorm, and the group could lose it."
+    },
+    {
+      "text": "So imagine people carrying a smouldering branch between camps, wrapping an ember in slow-burning material, and taking turns feeding a precious hearth.",
+      "tts": "So imagine people carrying a smoldering branch between camps, wrapping an ember in slow-burning material, and taking turns feeding a precious hearth."
+    },
+    {
+      "row": 7,
+      "text": "We cannot watch those moments directly."
+    },
+    {
+      "text": "Fire destroys much of its own evidence, and natural burning can look surprisingly similar to a human-made hearth."
+    },
+    {
+      "row": 8,
+      "text": "Archaeologists therefore search for patterns: ash deep inside caves, burned bones beside stone tools, clusters of heated objects, and signs that the same place burned repeatedly."
+    },
+    {
+      "row": 9,
+      "text": "At Wonderwerk Cave in South Africa, researchers found fire traces well inside the cave.",
+      "tts": "At Wonderwerk Cave, in South Africa, researchers found fire traces well inside the cave."
+    },
+    {
+      "row": 10,
+      "text": "A 2012 study identified burned bone and plant ash in deposits about one million years old.",
+      "tts": "A twenty-twelve study identified burned bone and plant ash in deposits about one million years old."
+    },
+    {
+      "text": "Newer work has reported recurrent fire use in even older layers, roughly 1.1 to 1.8 million years old.",
+      "tts": "Newer work has reported recurrent fire use in even older layers, roughly one point one to one point eight million years old."
+    },
+    {
+      "row": 11,
+      "text": "That may mean early humans were bringing naturally lit fire into the cave—but it does not prove they could ignite it themselves.",
+      "tts": "That may mean early humans were bringing naturally lit fire into the cave... but it does not prove they could ignite it themselves."
+    },
+    {
+      "row": 12,
+      "text": "By about 790,000 years ago, at Gesher Benot Ya’aqov in what is now Israel, burned seeds, wood, and flint were found in distinct clusters.",
+      "tts": "By about seven hundred and ninety thousand years ago, at Gesher Benot Yaakov, in what is now Israel, burned seeds, wood, and flint were found in distinct clusters."
+    },
+    {
+      "row": 13,
+      "text": "The pattern strongly suggests controlled hearths."
+    },
+    {
+      "text": "Evidence from the site also indicates that fish were cooked there around 780,000 years ago.",
+      "tts": "Evidence from the site also indicates that fish were cooked there around seven hundred and eighty thousand years ago."
+    },
+    {
+      "row": 14,
+      "text": "And then comes the newest major clue.",
+      "pause": 0.6
+    },
+    {
+      "text": "At Barnham in England, archaeologists found a patch of intensely heated ground, fire-cracked flint, and pieces of iron pyrite in a layer about 400,000 years old.",
+      "tts": "At Barnham, in England, archaeologists found a patch of intensely heated ground, fire-cracked flint, and pieces of iron pyrite in a layer about four hundred thousand years old.",
+      "splitRow": {
+        "at": "fire-cracked",
+        "row": 15
+      }
+    },
+    {
+      "text": "Pyrite can throw sparks when struck against flint, and it is rare around the site."
+    },
+    {
+      "row": 16,
+      "text": "In 2025, researchers argued that someone had carried it there to make fire.",
+      "tts": "In twenty twenty-five, researchers argued that someone had carried it there to make fire."
+    },
+    {
+      "text": "If that interpretation holds, this is the oldest known evidence of deliberate fire-making—not merely fire use.",
+      "tts": "If that interpretation holds, this is the oldest known evidence of deliberate fire-making... not merely fire use."
+    },
+    {
+      "text": "Later evidence becomes clearer."
+    },
+    {
+      "text": "Around 50,000 years ago, some Neanderthal stone tools in France acquired microscopic wear consistent with striking pyrite to produce sparks.",
+      "tts": "Around fifty thousand years ago, some Neanderthal stone tools in France acquired microscopic wear consistent with striking pyrite to produce sparks."
+    },
+    {
+      "row": 17,
+      "text": "However it began, mastering fire changed the rules of survival."
+    },
+    {
+      "text": "It offered warmth in cold places, light after sunset, smoke against insects, and protection from predators."
+    },
+    {
+      "text": "Cooking could kill pathogens, soften tough food, and make some nutrients easier to digest."
+    },
+    {
+      "row": 18,
+      "text": "Fire also transformed wood, stone, pigments, and eventually metals."
+    },
+    {
+      "text": "And perhaps its most human effect was the circle it created."
+    },
+    {
+      "text": "Around a hearth, food could be shared."
+    },
+    {
+      "text": "Tools could be repaired."
+    },
+    {
+      "text": "Plans could be made."
+    },
+    {
+      "text": "Knowledge could pass from one generation to the next."
+    },
+    {
+      "text": "We cannot excavate the first story ever told—but it is easy to imagine that a fire was burning beside it.",
+      "tts": "We cannot excavate the first story ever told... but it is easy to imagine that a fire was burning beside it.",
+      "pause": 1.0
+    },
+    {
+      "row": 19,
+      "text": "So, who invented fire?",
+      "pause": 0.8
+    },
+    {
+      "text": "No one person.",
+      "pause": 0.35
+    },
+    {
+      "text": "No single species.",
+      "pause": 0.35
+    },
+    {
+      "text": "No single day.",
+      "pause": 0.8
+    },
+    {
+      "text": "Fire was a relationship built over immense time: stolen from nature, kept alive by patience, shaped into a tool, and finally summoned with a spark.",
+      "pause": 1.0
+    },
+    {
+      "text": "Humans did not invent the flame.",
+      "pause": 0.8
+    },
+    {
+      "text": "We invented what to do with it."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+import puppeteer from "puppeteer-core";
+const b = await puppeteer.launch({executablePath: process.env.HYPERFRAMES_BROWSER_PATH, args:["--no-sandbox","--allow-file-access-from-files"]});
+const p = await b.newPage();
+await p.setViewport({width:1920,height:1080});
+p.on("console", m => console.log("console:", m.type(), m.text()));
+p.on("pageerror", e => console.log("pageerror:", e.message));
+await p.evaluateOnNewDocument(() => { window.__timelines = {}; });
+const t0=Date.now();
+await p.goto("file:///home/user/Claude-Projects/fire-video/index.html");
+await p.waitForFunction(() => window.__timelines && window.__timelines.main, {timeout: 60000}).catch(e=>console.log("timeout"));
+console.log("built in", Date.now()-t0, "ms");
+console.log(await p.evaluate(() => ({dur: window.__timelines.main.duration(), paths: document.querySelectorAll("path").length})));
+await b.close();
