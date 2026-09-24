@@ -5,3 +5,4 @@ renders/*.log
 renders/.debug/
 assets/audio/voice.wav
 assets/audio/music.wav
+renders/
