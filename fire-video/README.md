@@ -2,7 +2,7 @@
 
 A 4:38 YouTube voiceover explainer rendered with [HyperFrames](https://github.com/heygen-com/hyperframes). It uses hand-drawn charcoal-and-ochre doodles on warm parchment, burned-in two-line captions with one ember-orange keyword each, and a sparse hand-percussion and drone bed.
 
-Output: `renders/how-humans-invented-fire.mp4` (1920×1080, 30 fps, H.264 + AAC).
+Output: `output/how-humans-invented-fire.mp4` (1920×1080, 30 fps, H.264 + AAC, loudness-normalized to −14 LUFS). Re-rendering writes the full-quality master to `renders/`.
 
 ## How it's built
 
